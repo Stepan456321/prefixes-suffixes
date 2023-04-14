@@ -1,0 +1,8 @@
+Пример конфига:
+players:
+  123e4567-e89b-12d3-a456-426655440000:
+    prefix: "&a[Admin] "
+    suffix: "&r"
+  98765432-10ab-cdef-0123-456789abcdef:
+    prefix: "&b[Mod] "
+    suffix: "&r"
